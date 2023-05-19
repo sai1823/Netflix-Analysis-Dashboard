@@ -1,5 +1,3 @@
-
-
 import dash                              # pip install dash
 from dash import dcc
 from dash import html
